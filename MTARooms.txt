@@ -1,0 +1,452 @@
+1
+Introduction
+Your name is Wilah Fistairs and you just woke up from a very uncomfortable night's sleep. You
+realize that you have a massive hangover. Your shirt is covered in vomit and you're in a bathroom
+stall at Ducky's, which is Mount Allison's favorite student pub. You don't remember much of your
+past night's experience, but you do remember the cute brunette girl who asked you to come party
+with her while you were working on your computer science homework. Unable to decline to her offer
+(as this is a very rare opportunity for a nerdy CS student) you pack your things and head out with
+her in the night. Laying in the very gloomy, desolate and dirty stall you realize you have lost your
+homework and that it needs to be handed in to Dr. Ricker before noon or else you lose 135% of your
+grade. Pumped with adrenalin and the determination to find your homework, you stumble out of Ducky's,
+trying to remember every last scrap of information that you can...
+-----
+FORCED 2
+
+2
+EmptyLine
+
+-----
+FORCED 3600
+
+10
+Harry Potter House
+A mystical aura surrounds the deranged, ominous metal figure. You find a secret storage space behind
+the miniature house, revealing a stash of alcoholic beverages. A door entrance to the NORTH leads you
+into Crabtree while taking the road WEST leads you back to the library. 
+-----
+FORCED 		11/WHISKEY
+NORTH 		400
+CRABTREE 	400
+WEST 		300
+LIBRARY 	300
+
+11
+Swan Pond Adventure
+... a few minutes have passed and you are laying face-first on the ground with your shorts
+thickened in black morass. You've come to conclusion that you are covered in swan feces since you
+are at the swan pond. Being a heavy alcoholic, you got very excited when discovering a hidden stash
+of liquor and could not resist chugging an entire bottle, resulting in passing out soon afterwards.
+You make your way to the Music Conservatory to clean up. 
+-----
+FORCED 		500
+
+12
+Area between the Library, Crabtree, and the Art Gallery.
+You are on a pedestrian walkway. A number of buildings surrounds you. To your EAST is the Harold
+Crabtree Building, to your SOUTH is the library, and to your WEST is the Art Gallery. To the RIGHT
+of the Arts Gallery stands the Chapel in the distance. There is a very peculiar metal structure
+UNDER the breeze-way. You also see some a few other buildings DOWN the hill.
+-----
+EAST 		400
+CRABTREE 	400
+SOUTH 		300
+LIBRARY 	300
+WEST 		1100
+ART 		1100
+GALLERY 	1100
+DOWN 		13
+UNDER 		10
+RIGHT 		14
+
+13
+Area outside Avard-Dixon.
+You are standing directly outside of Avard-Dixon, with a set of doors leading IN. You see a cluster
+of buildings UP the hill. To your WEST, you see a door leading into the ground level of Flemington.
+To your EAST, you see the Conservatory.
+-----
+EAST 	 	500
+UP 		 	12
+WEST 	 	901
+IN 		 	600
+AVARD 		600
+DIXON 		600
+AVARD-DIXON 600
+NORTH 		600
+
+14
+Area outside the chapel.
+You are standing near the entrance of the chapel, with a set of doors leading IN. To the NORTH,
+you see an entrance to Flemington's main level. To the SOUTH you see the Arts Building, and to
+the WEST you see the Dunn building, where your professor's office is found in. You see another
+cluster of buildings in the distance, in the EAST direction. There is also a cobble stone path
+leading SOUTHEAST to the student centre.
+-----
+EAST 	 	12
+SOUTH 	 	1100
+ARTS 	 	1100
+GALLERY 	1100
+WEST 	  	1800
+DUNN 	  	1800
+IN 		 	1900/BIBLE
+IN 		 	1901
+CHAPEL 		1900/BIBLE
+CHAPEL 		1901
+NORTH 	  	900
+SOUTHEAST   1200
+
+300
+In front of R.P. Bell Library
+You stand in front of a very large, imposing and aged library. To your EAST in the
+middle of a breeze-way stands a very peculiar metal structure. This catches your
+attention and reminds you of the houses in Harry Potter. To the WEST stands the arts
+building. To the NORTH is a clearing which is surrounded by a number of buildings. You also
+notice that the doors to the library are unlocked allowing you to go IN the library. Looking DOWN
+the hill, you see Ducky's in the distance. You probably should stay clear of there until you've
+located your homework. You see a path leading SOUTHWEST to the student centre. 
+-----
+NORTH      	12
+EAST     	10
+WEST       	1100
+IN         	310
+LIBRARY     310
+DOWN		3600
+SOUTHWEST   1200
+
+312
+Library (Third Floor)
+You are now on the top floor of the library. You peer over the edge of the balcony and you can see
+much of the library from this excellent view. It is relatively quiet and relaxing up here, although
+you can hear the echoes of the sounds coming from down below. You don't have much choice but to head
+back DOWN the stairs.
+-----
+DOWN     	311
+BACK  		311
+
+311
+Library (Second Floor)
+You are on the second floor of the library. A balcony overlooks the the main floor. Along the
+perimeter of the room are many small study cubicles, most of which are in use. You notice set of
+stairs that could take you UP or DOWN to different floors.
+-----
+UP  	    312
+DOWN  		310
+
+310
+Library (Main Floor)
+You are in a nice, big, open room. It is relatively quiet, despite the number of students milling
+about, frantically trying to finish research papers. You notice set of stairs that could take you
+UP or DOWN to different floors. There is a large entrance leading OUT of the building.
+-----
+UP      	311
+DOWN    	309
+OUT 		300
+
+309
+Library (Ground Level)
+You are in a room covered in red carpet. There are a bunch of tables with students quietly working
+away. You notice set of stairs that could take you UP or DOWN to different floors.
+-----
+UP  		310
+DOWN  		308
+
+308
+Library (Basement)
+You are in the basement, which is eerily quiet, littered with a small number of students engrossed
+in their studying. There doesn't appear to be any lower floors.
+-----
+UP 		309
+BACK 	309
+
+400
+Crabtree (Hallway Upstairs)
+You're in a hallway in the Crabtree building. There are also a multitude of rooms on either side,
+but only one room on the WEST seems to be locked, which is Room M666. You see a stairway that goes
+DOWN to the basement as well as an exit to the EAST.
+-----
+SOUTH      	10
+WEST      	401/M666-KEY
+WEST       	404
+M666      	401/M666-KEY
+M666       	404
+DOWN       	402
+BASEMENT    402
+EAST       	12
+
+401
+M666
+The auditorium is quite dark, and you aren't able to find a light switch, but the light from the
+open door allows you to be able to faintly make the room out. The room is a dead end and the only
+way to exit is to go back OUT.
+-----
+OUT    		400
+BACK   		400
+EAST   		400
+
+402
+Crabtree (Downstairs Hallway)
+You are in a long narrow hallway in the basement of Crabtree and you can hear the squeal of
+rodents in the far distance to the SOUTH. A staircase leads back UP.
+-----
+SOUTH    	403
+UP    		400
+
+403
+Rat Lab
+The lights  are very dim and you can only make out the bulging, red eyes of the rats who are
+squealing at you. The title on the cage reads, "Beware of the  giant, mutant rats". 
+-----
+NORTH    	402
+BACK    	402
+OUT 		402
+
+404
+M666 (Door Locked Error)
+You attempt to open the door but it requires a key to enter.
+-----
+FORCED 400
+
+500
+Conservatory
+You are in Mount Allison's music building. All of the practice rooms appear to be filled with
+students who are frantically practicing in preparation for final performances, so there's nothing
+that you can really can really do in here. Looking outside, you see the entrance to Avard-Dixon in
+the distance in the WEST. The intersection by Ducky's is down the road to the SOUTH.
+-----
+WEST     	13
+SOUTH      	3600
+
+600
+Avard-Dixon (Main Floor)
+On the main floor of Avard-Dixon, you see a classroom with an open door, inviting you to
+come IN. You also see a set of doors leading OUT.
+-----
+OUT  		13
+SOUTH 		13
+IN			601
+
+601
+AVDX 112 
+You enter your familiar Computer Science classroom in AVDX 112 and push Dr. Ricker's Desk
+back into the proper position in an attempt to score some brownie points.  
+-----
+OUT 		602/LAPTOP
+BACK		602/LAPTOP
+OUT 		600
+BACK		600
+
+602
+AVDX 112 (Laptop Message)
+As you are walking out of the door, you notice a name inscribed on the laptop, "L. Ricker".
+Uh oh, you'd better be very careful with it! Maybe you should have just left it there...
+-----
+FORCED   	600
+
+900
+Flemington (Main Floor)
+You are on the Flemington main floor hallway, which is lined with a number of wooden doors,
+all of which are closed. You see a set of stairs leading DOWN. Outside the entrance, you
+are able to see the chapel to the SOUTH. 
+-----
+DOWN		901
+OUT			14
+SOUTH		14
+
+901
+Flemington (Ground Floor)
+You are on the ground floor. You see a set of stairs leading UP, and a set of doors leading OUT
+towards Avard-Dixon.
+-----
+UP			900
+OUT			13
+EAST		13
+
+1100
+Arts Building
+As you step into the arts building you recall that the brunette you were with
+was an arts student and that you ventured in there with her for a little while as
+she showed you her paintings and statues. A staircase leads UP the stairs to the 
+room with canvas paintings. To the RIGHT is the room filled with marble statues and 
+clay vessels. Looking out the door, you can either head towards the chapel, which is
+found to your NORTH, or towards a cluster of buildings by the library, which is EAST. 
+Directly SOUTH you see the Student centre looming in the distance.
+-----
+NORTH		14
+EAST		12
+RIGHT      	1101
+UP         	1103
+SOUTH       1200
+
+1101
+Marble Statue and Clay Vessel Room
+In the room is a giant statue of the Greek God Poseidon trusting his
+mighty trident in your direction. There is also an alignment of hundreds of clay
+vessels arranged in a domino formation spiraling the entire room. You 
+are very tempted to PUSH one of the clay vessels to see what happens, but you
+know you should simply turn BACK.
+-----
+PUSH        1102
+BACK		1100
+OUT       	1100
+
+1102
+Death by Poseidon
+You gently push the closest clay vessel to you within proximity. It unleashes a massive,
+unstoppable domino effect, which smashes every vessel in the room and knocks over all the
+statues. The largest of the statues is a statue of Poseidon, which falls towards you.
+Poseidon's trident penetrates your internal organs and you fall backwards and plummet into
+an assembly of vessel fragments immobilizing you as you bleed to death.
+-----
+FORCED   0
+
+1103
+Painting Room
+You're in a room filled with canvases of varying sizes. There is one painting that 
+stands out; it has your name inscribed within a heart.    
+-----
+DOWN    1100
+OUT     1100
+BACK     1100
+
+1200
+Student Centre (First Floor)
+A long Mount Allison banner hangs through the middle of the room promoting
+Mount Allison's pride in being the #1 undergraduate university in Canada
+despite the fact that the students didn't get their tuition rebate. You lookout the window
+and see the art gallery the NORTH. You twist your head and see the library NORTHEAST. Looking
+the other way, you see the chapel to the NORTHWEST. There is a staircase leading UP and DOWN.
+-----
+UP     1201
+DOWN   1202
+NORTH  1100
+NORTHWEST   14
+NORTHEAST   300
+
+1201
+Student Centre (Second Floor)
+There are a multitude of promotional pamphlets on this level trying to get you to take part
+in a university exchange program. To your WEST you see a glassed in room which you recognize
+as being the International Lounge. There is also another set of stairs leading UP and DOWN.
+-----
+DOWN    1200
+UP      1203
+WEST    1205
+
+1202
+Student Centre (Ground Floor)
+You are on the ground floor of the student Centre in Gracie's Cafe. You can see a large penis
+inscribed in the snow through the large glass windows in the football field. Your subconscious
+tells you that you are partially responsible for its existence from the night before and you
+immediately want to go back UP.
+-----
+UP      1200
+
+1203
+Student Centre (Third Floor)
+You see a mostly empty floor with a few students working away, and some students passed out
+from sleep deprivation due to stressful exam preparations. To the WEST is the Argosy Office.
+-----
+DOWN    1201
+WEST    1204
+
+1204
+Argosy Office 
+You enter a cozy looking room. The walls are littered with random journal paraphernalia
+reminding you that you are in the Argosy Head Quarters. There nowhere else to go except
+back OUT.
+-----
+EAST  1203
+BACK  1203
+OUT  1203
+
+1205
+International Lounge 
+You enter the International Lounge and spot a couple passionately making out with each other.
+You are creeped out by this and want to immediately turn BACK, but you needed to check if your
+homework was here. 
+-----
+BACK   1201
+EAST   1201
+
+1800
+Dunn (First Floor)
+You are in a hallway with a wheelchair ramp and a small set of stairs, separated by a black,
+metal railing. You see a bulletin board with a number of colorful posters, and a staircase
+leading UP onto the second floor. Looking out windows by the nearest entrance, you see the
+chapel off to the EAST.
+-----
+UP 	1801/HOMEWORK
+UP 	1802
+OUT	14
+
+1801
+Dunn (Second Floor)
+You are on the second floor and you are able to see Ricker's Office. The door is closed, but
+she would probably answer if you were to KNOCK on the door.
+-----
+KNOCK 	1803/LAPTOP
+KNOCK 	1804
+BACK	1800
+DOWN	1800
+
+1802
+Dunn (Second Floor)
+You see Ricker's Office. You probably should stay clear of her until you have found your homework.
+-----
+BACK	1800
+DOWN 	1800
+
+1803
+Ricker's Office With Laptop
+The door swings open, and you see Dr. Ricker standing in the doorway. You are relieved that you
+made it there with your homework; however, she does not seem to be expressing the same excitement.
+As your heart sinks, she asks a question, "What do you have in your hands?". Looking down at the
+laptop in your hands and immediately realize what she is referring to. Somehow, you must've cracked
+her computer screen during your extensive and desperate search for your handwork. Accepting your
+fate, and realizing that you will surely be re-doing the course again next semester, you abruptly
+leave, curl up into a ball, and cry. It is not long after that Dr. Ricker finds you and tells you
+that you were, in fact, a person who won the optional contest, got the highest mark in class, and
+also scored a full 5% on the Flappi Byrd bonus assignment.  She then congratulates you for being a
+remarkable student and tells you that her screen had already been broken before it got lost. You are
+relieved that your search was not in vain and everything turned out better than you could have ever
+foreseen. Best of all... you passed the course!
+-----
+FORCED 0
+
+1804
+Ricker's Office (without Laptop)
+The door swings open, and you see Dr. Ricker standing in the doorway. You beam as you hand her your
+homework in time. She thanks you for the homework and proceeds to congratulate you for being an
+amazing student. You find out that you were, in fact, a person who won the optional contest, got
+the highest mark in class, and also scored a full 5% on the Flappi Byrd bonus assignment. You are
+relieved that your search was not in vain and everything turned out better than you could have ever
+foreseen!
+-----
+FORCED 0
+
+1900
+University Chapel
+You are inside a concave church with kaleidoscope-like RGB-coloured windows. The essence of God
+is within the room and gets absorbed within your soul.  
+-----
+OUT			14
+BACK		14
+
+1901
+University Chapel (No Bible)
+As you reach your hand torward one of the large doors, a loud voice calls down from heaven,
+"Anyone whose life is not holy will never see the Lord" (Hebrews 12:14).
+-----
+FORCED		14
+BACK		14
+
+3600
+York-Main Intersection
+You are at the intersection of York street and Main street in the town of Sackville. The road
+goes UP the hill and you can see a very large library far in the distance. To the NORTH, Main street's
+winding road brings you towards the Music Conservatory.  
+-----
+UP        300
+YORK 	  300
+NORTH     500	
+MAIN  	  500
